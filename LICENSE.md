@@ -1,4 +1,4 @@
-# 
+# Automático NeuralQuery script. Baixe e instale com interface amigável e código aberto — rápido, seguro e fácil de usar.
 
 
 
